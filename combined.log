@@ -1,0 +1,5 @@
+
+{"level":"info","message":"SIGINT received. Server shutting down gracefully...","timestamp":"2026-03-30T01:06:33.151Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2026-03-30T01:06:44.337Z"}
+{"address":"::","family":"IPv6","level":"info","message":"Server running at:","port":3000,"timestamp":"2026-03-30T01:06:44.349Z"}
+{"level":"info","message":"SIGINT received. Server shutting down gracefully...","timestamp":"2026-03-30T01:08:37.909Z"}
