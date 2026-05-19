@@ -1,0 +1,1 @@
+{"level":"error","message":"Expected double-quoted property name in JSON at position 71 (line 4 column 1)","metadata":{"body":"{\n    \"email\": \"tushhamphrey@gmail.com\",\n    \"password\": \"COmpaqaley\",\n}","expose":true,"status":400,"statusCode":400,"type":"entity.parse.failed"},"timestamp":"2026-05-19T10:16:35.872Z"}

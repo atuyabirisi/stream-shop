@@ -17,6 +17,11 @@ const userSchema = new Schema(
       type: String,
       required: true,
     },
+    role: {
+      type: String,
+      enum: ["guest", "host", "admin"],
+      default: "guest",
+    },
     isVerified: {
       type: Boolean,
       default: true,
@@ -31,7 +36,12 @@ userSchema.methods.generateAuthToken = function () {
   const jwtSecretKey = process.env.JWT_SECRET;
 
   const token = jwt.sign(
-    { username: this.username, _id: this._id, isVerfied: this.isVerified },
+    {
+      username: this.username,
+      _id: this._id,
+      role: this.role,
+      isVerfied: this.isVerified,
+    },
     jwtSecretKey,
   );
 
