@@ -1,0 +1,15 @@
+{"level":"info","message":"SIGINT signal received received. Server shutting down gracefully...","timestamp":"2026-06-15T08:42:23.139Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2026-06-15T08:42:34.115Z"}
+{"address":"::","family":"IPv6","level":"info","message":"Property service running at:","port":3001,"timestamp":"2026-06-15T08:42:34.135Z"}
+{"level":"info","message":"SIGINT signal received received. Server shutting down gracefully...","timestamp":"2026-06-15T08:44:37.388Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2026-06-15T08:44:47.480Z"}
+{"address":"::","family":"IPv6","level":"info","message":"Property service running at:","port":3001,"timestamp":"2026-06-15T08:44:47.504Z"}
+{"level":"info","message":"SIGINT signal received received. Server shutting down gracefully...","timestamp":"2026-06-15T09:22:53.907Z"}
+{"level":"info","message":"Server closed.","timestamp":"2026-06-15T09:22:53.909Z"}
+{"level":"info","message":"SIGINT signal received received. Server shutting down gracefully...","timestamp":"2026-06-15T09:22:53.953Z"}
+{"level":"info","message":"Server closed.","timestamp":"2026-06-15T09:22:53.954Z"}
+{"level":"info","message":"SIGINT signal received received. Server shutting down gracefully...","timestamp":"2026-06-15T09:22:54.002Z"}
+{"level":"info","message":"Server closed.","timestamp":"2026-06-15T09:22:54.003Z"}
+{"level":"info","message":"MongoDB connection closed. property service","timestamp":"2026-06-15T09:22:54.753Z"}
+{"level":"info","message":"Successfully connected to MongoDB","timestamp":"2026-06-15T09:23:08.451Z"}
+{"address":"::","family":"IPv6","level":"info","message":"Property service running at:","port":3001,"timestamp":"2026-06-15T09:23:08.481Z"}

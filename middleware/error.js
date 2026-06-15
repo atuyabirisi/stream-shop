@@ -1,3 +1,6 @@
-export const errorHandler = (err, req, res, next) => {
-  res.status(500).json({ error: "Internal Server Error" });
+const errorHandler = (err, req, res, next) => {
+  console.log(err);
+  res.status(500).json({ error: "Internal Server Error", err });
 };
+
+export default errorHandler;
